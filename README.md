@@ -40,6 +40,11 @@ Currently pursuing a **Master’s degree in Data Science** at **WSB University, 
 A Python project demonstrating how genetic algorithms can evolve pixel populations to recreate a target image.
 **Tech:** Python, NumPy, Matplotlib, PIL.
 
+### [🏡 House Price Prediction Using Linear Regression](https://github.com/hailemichaelejigayhu/House-Price-Prediction-Using-Linear-Regression)
+A regression analysis project that predicts house prices using Linear Regression based on features like location, age, and property characteristics.  
+**Tech:** Python, Pandas, Scikit-learn, Matplotlib
+
+
 
 ## 📫 Get in Touch  
 📧 **hailemichaelejigayhu@gmail.com**  
