@@ -44,6 +44,11 @@ A Python project demonstrating how genetic algorithms can evolve pixel populatio
 A regression analysis project that predicts house prices using Linear Regression based on features like location, age, and property characteristics.  
 **Tech:** Python, Pandas, Scikit-learn, Matplotlib
 
+### [🧠 Neural Network Classifier with Keras](https://github.com/hailemichaelejigayhu/Neural-Network-Classifier-with-Keras)
+Deep learning project for image classification using Keras on MNIST and Fashion-MNIST datasets, comparing feedforward and CNN architectures.
+**Tech:** Python, TensorFlow, Keras, Google Colab
+
+
 
 
 ## 📫 Get in Touch  
