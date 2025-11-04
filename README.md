@@ -36,6 +36,10 @@ Currently pursuing a **Master’s degree in Data Science** at **WSB University, 
 - Visualized insights using Matplotlib and Seaborn.
 
 ---
+### [🎨 Reproducing Images Using a Genetic Algorithm](https://github.com/hailemichaelejigayhu/Reproducing-Images-Using-Genetic-Algorithm)
+A Python project demonstrating how genetic algorithms can evolve pixel populations to recreate a target image.
+**Tech:** Python, NumPy, Matplotlib, PIL.
+
 
 ## 📫 Get in Touch  
 📧 **hailemichaelejigayhu@gmail.com**  
