@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me  
-Analytical and results-driven **Data Analyst** with 3+ years of experience in data extraction, processing, visualization, and automation.  
+Analytical and results-driven **Data Analyst** with 2+ years of experience in data extraction, processing, visualization, and automation.  
 I enjoy transforming raw data into actionable insights that help drive smart business decisions.  
 
 Currently pursuing a **Master’s degree in Data Science** at **WSB University, Poland**, focusing on **data modeling, analytics automation, and AI-driven reporting**.  
