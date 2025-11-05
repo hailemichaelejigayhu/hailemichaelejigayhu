@@ -1,61 +1,45 @@
-# Hi there, I'm Hailemichael Ejigayhu 👋  
-🎯 Data Analyst | Python & SQL | Data Visualization | Automation  
+# 👋 Hi, I'm Hailemichael Ejigayhu  
+
+🎯 **Junior Data Analyst** | SQL | Python | Tableau | Machine Learning  
+
+Analytical and results-driven Data Analyst with 2+ years of experience in data extraction, processing, visualization, and automation.  
+Passionate about transforming raw data into actionable insights that drive smarter decisions.  
 
 ---
 
 ## 🧠 About Me  
-Analytical and results-driven **Data Analyst** with 2+ years of experience in data extraction, processing, visualization, and automation.  
-I enjoy transforming raw data into actionable insights that help drive smart business decisions.  
-
-Currently pursuing a **Master’s degree in Data Science** at **WSB University, Poland**, focusing on **data modeling, analytics automation, and AI-driven reporting**.  
-
----
-
-## 🧰 Tech Stack  
-**Languages:** Python, SQL  
-**Visualization:** Tableau, Excel, Power BI  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Git, GitHub, Jupyter, Google Colab  
+- 📍 Based in Krakow, Poland  
+- 🎓 MSc in Data Science (WSB University, 2024–2026)  
+- 🧰 Experienced with Python (Pandas, NumPy, Matplotlib), SQL, Excel, and Tableau  
+- 🤖 Interested in AI-powered analytics, automation, and data engineering  
 
 ---
 
 ## 🚀 Featured Projects  
-
-### [VibeQL.ai](https://vibeql.ai) — *AI-Powered Analytics Platform*  
-- Built data ingestion and processing pipelines for user-uploaded datasets.  
-- Implemented natural language–to–SQL query generation for data insights.  
-- Automated visualization and summary generation using Python and APIs.  
-
-### **Sales Insights Dashboard**  
-- Created an interactive Excel dashboard for tracking KPIs and forecasting sales.  
-- Automated data refresh and report distribution with VBA and Python scripts.  
-
-### **Customer Segmentation Analysis**  
-- Applied K-Means clustering to segment customers by behavior for retention strategies.  
-- Visualized insights using Matplotlib and Seaborn.
-
----
-### [🎨 Reproducing Images Using a Genetic Algorithm](https://github.com/hailemichaelejigayhu/Reproducing-Images-Using-Genetic-Algorithm)
-A Python project demonstrating how genetic algorithms can evolve pixel populations to recreate a target image.
-**Tech:** Python, NumPy, Matplotlib, PIL.
-
-### [🏡 House Price Prediction Using Linear Regression](https://github.com/hailemichaelejigayhu/House-Price-Prediction-Using-Linear-Regression)
-A regression analysis project that predicts house prices using Linear Regression based on features like location, age, and property characteristics.  
-**Tech:** Python, Pandas, Scikit-learn, Matplotlib
-
-### [🧠 Neural Network Classifier with Keras](https://github.com/hailemichaelejigayhu/Neural-Network-Classifier-with-Keras)
-Deep learning project for image classification using Keras on MNIST and Fashion-MNIST datasets, comparing feedforward and CNN architectures.
-**Tech:** Python, TensorFlow, Keras, Google Colab
-
-
-
-
-## 📫 Get in Touch  
-📧 **hailemichaelejigayhu@gmail.com**  
-🌐 [vibeql.ai](https://vibeql.ai)  
-💼 [LinkedIn](www.linkedin.com/in/hailemichael-ejigayhu)
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [VibeQL.ai](https://vibeql.ai) | AI-powered analytics platform with natural language → SQL pipeline. | Python, SQL, APIs |
+| [House Price Prediction](https://github.com/hailemichaelejigayhu/House-Price-Prediction-Using-Linear-Regression) | Linear Regression model to predict housing prices. | Python, Pandas, Scikit-learn |
+| [Neural Network Classifier](https://github.com/hailemichaelejigayhu/Neural-Network-Classifier-with-Keras) | Image classification using CNNs on MNIST/Fashion-MNIST. | TensorFlow, Keras |
+| [Image Reproduction via Genetic Algorithm](https://github.com/hailemichaelejigayhu/Reproducing-Images-Using-Genetic-Algorithm) | Evolving pixel populations to recreate target images. | Python, NumPy, Matplotlib |
 
 ---
 
+## 🧰 Skills & Tools  
+**Languages:** Python, SQL, Excel, Bash  
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
+**Visualization:** Tableau, Power BI, Excel  
+**Databases:** PostgreSQL, MySQL  
+**Cloud & Tools:** AWS, Azure, Git, Jupyter, Google Colab  
 
+---
+
+## 🌐 Connect With Me  
+📧 **Email:** [hailemichaelejigayhu@gmail.com](mailto:hailemichaelejigayhu@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/hailemichael-ejigayhu](https://www.linkedin.com/in/hailemichael-ejigayhu)  
+💻 **Portfolio:** [hailemichael-portfolio.com](https://hailemichael-portfolio.com)  
+🐙 **GitHub:** [github.com/hailemichaelejigayhu](https://github.com/hailemichaelejigayhu)  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my projects or reach out if you'd like to collaborate.*
