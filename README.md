@@ -37,7 +37,7 @@ Passionate about transforming raw data into actionable insights that drive smart
 ## 🌐 Connect With Me  
 📧 **Email:** [hailemichaelejigayhu@gmail.com](mailto:hailemichaelejigayhu@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/hailemichael-ejigayhu](https://www.linkedin.com/in/hailemichael-ejigayhu)  
-💻 **Portfolio:** [hailemichael-portfolio.com](https://hailemichael-portfolio.com)  
+💻 **Portfolio:** [portfolio-hailemichael.vercel.app](https://portfolio-hailemichael.vercel.app)  
 🐙 **GitHub:** [github.com/hailemichaelejigayhu](https://github.com/hailemichaelejigayhu)  
 
 ---
